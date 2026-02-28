@@ -280,7 +280,7 @@ span {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: url('file:///C:/Users/RM/.gemini/antigravity/brain/7e89717e-f45d-407c-802b-3f3c722358c7/bridal_makeup_1772220986323.png') no-repeat center center/cover;
+    background: url('images/bridal_makeup_1772220986323.png') no-repeat center center/cover;
     background-attachment: fixed;
     /* Parallax effect */
     position: relative;
@@ -433,7 +433,7 @@ span {
 
 /* Offers Section */
 .offers {
-    background: url('file:///C:/Users/RM/.gemini/antigravity/brain/7e89717e-f45d-407c-802b-3f3c722358c7/party_makeup_1772221001448.png') no-repeat center center/cover;
+    background: url('images/party_makeup_1772221001448.png') no-repeat center center/cover;
     background-attachment: fixed;
     position: relative;
 }
@@ -594,7 +594,7 @@ span {
 
 /* Parallax Divider */
 .parallax-section {
-    background: url('file:///C:/Users/RM/.gemini/antigravity/brain/7e89717e-f45d-407c-802b-3f3c722358c7/hair_treatment_1772221520665.png') no-repeat center center/cover;
+    background: url('images/hair_treatment_1772221520665.png') no-repeat center center/cover;
     background-attachment: fixed;
     padding: 150px 0;
     position: relative;
